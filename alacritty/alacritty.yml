@@ -2,7 +2,6 @@ window:
   padding:
     x: 16
     y: 16
-  opacity: 0.8
 scrolling:
   # Maximum number of lines in the scrollback buffer.
   # Specifying '0' will disable scrolling.
@@ -246,4 +245,3 @@ live_config_reload: true
 
 # Send ESC (\x1b) before characters when alt is pressed.
 #alt_send_esc: true
-window.opacity: 0.9
