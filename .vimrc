@@ -17,5 +17,5 @@ set ruler
 
 inoremap jk <ESC>
 
-colorscheme habamax 
+"colorscheme habamax 
 
