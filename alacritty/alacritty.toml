@@ -1,4 +1,3 @@
-live_config_reload = true
 
 [colors.bright]
 black = "#4c566a"
@@ -57,7 +56,7 @@ shape = "Block"
 size = 10.0
 
 [font.normal]
-family = "SFMono Nerd Font"
+family = "Liga SFMono Nerd Font"
 style = "Regular"
 
 [scrolling]
@@ -65,8 +64,11 @@ history = 10000
 multiplier = 3
 
 [window]
-opacity = 0.9
+#opacity = 0.9
 
 [window.padding]
 x = 5
 y = 5
+
+[general]
+live_config_reload = true
